@@ -1,8 +1,31 @@
-# React + Vite
+## Todo app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository holds the code for a React todos application. 
 
-Currently, two official plugins are available:
+## [Click to See the Todos App](https://react-todos-ibas.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Clone the project
+
+You can clone this project by running this command from your terminal:
+
+```
+git clone https://github.com/Mwan3kii/todo-app-project.git
+```
+
+The command will create a directory in the name of the project folder.
+
+Once you have the project files and folders bootstrapped, open them with your text editor.
+
+Next, switch inside the project directory and run:
+
+```
+npm install
+```
+
+This will install all the necessary dependencies in the local `node_modules` folder.
+
+Finally, start your development server by running the following:
+
+```
+npm run dev
+```
