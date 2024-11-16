@@ -5,7 +5,7 @@ const About = () => {
     return (
         <>
             <Header>
-                <h1>About page.</h1>
+                <h1>About page</h1>
             </Header>
             <div className="about">
                 <ul className="about_list">

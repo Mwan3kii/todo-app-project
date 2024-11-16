@@ -4,7 +4,7 @@ const Header = (props) => {
     const headerStyle = {
         padding: '20px 0',
         lineHeight: '1.5em',
-        color: '#aeadad',
+        color: 'rgb(139 137 137)',
         textAlign: 'center',
       };
     return (

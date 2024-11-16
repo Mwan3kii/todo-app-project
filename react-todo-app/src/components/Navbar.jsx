@@ -87,7 +87,7 @@ const Navbar = () => {
                     })}
                     {!user && (
                         <li className="log-in">
-                            <span>Log in to edit to-dos</span>
+                            <span>Log in to edit To-dos</span>
                         </li>
                     )}
                 </ul>

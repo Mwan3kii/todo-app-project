@@ -30,6 +30,7 @@ body {
     justify-content: space-around;
     background: #fff;
     font-size: 1rem;
+    margin-top: 5px;
 }
 
 .input-text {
@@ -61,7 +62,7 @@ body {
 }
 
 .submit-warning {
-    font-size: 13px;
+    font-size: 17px;
     color: red;
     margin-top: 5px;
     display: block;
@@ -94,6 +95,7 @@ About route
     display: inline-block;
     text-decoration: none;
     font-weight: bold;
+    font-size: 24px;
 }
 
 .about_list a:hover {
@@ -102,22 +104,26 @@ About route
 
 .main_content {
     max-width: 650px;
+    margin-left: 45px;
+    margin-top: 15px;
 }
 
 .main_content h2 {
     margin-bottom: 15px;
     line-height: 30px;
-    font-size: 26px;
+    font-size: 22px;
 }
 
 .main_content p {
     line-height: 25px;
+    font-size: 15px;
 }
 
 /* Media Queries */
 @media screen and (min-width: 480px) {
     div.wrapper h1 {
         font-size: 6rem;
+        margin-bottom: 25px;
     }
 
     .about {
