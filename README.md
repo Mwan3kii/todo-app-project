@@ -1,6 +1,6 @@
 ## Todo app
 
-This repository holds the code for a React todos application. 
+This repository holds the code for the Todos application developed with vite and react. 
 
 ## [Click to See the Todos App](https://react-todos-ibas.vercel.app/)
 
