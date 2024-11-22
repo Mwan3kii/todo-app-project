@@ -2,7 +2,7 @@
 
 This repository holds the code for the Todos application developed with vite and react. 
 
-## [Click to See the Todos App](https://todo-app-j36p.onrender.com/)
+## [Click to See the Todo App](https://todo-app-j36p.onrender.com/)
 
 ### Clone the project
 
