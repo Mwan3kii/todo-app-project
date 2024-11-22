@@ -2,7 +2,7 @@
 
 This repository holds the code for the Todos application developed with vite and react. 
 
-## [Click to See the Todos App](https://react-todos-ibas.vercel.app/)
+## [Click to See the Todos App](https://todo-app-j36p.onrender.com/)
 
 ### Clone the project
 
